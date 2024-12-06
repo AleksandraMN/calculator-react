@@ -36,7 +36,7 @@
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	gap: 10px;
-	padding: 20px;
+	padding: 40px;
 }
 
 button {
@@ -66,7 +66,7 @@ button:hover {
 .equal-sign {
 	background-color: #4caf50;
 	color: #fff;
-	grid-column: span 2;
+	grid-column: span 3;
 }
 
 .equal-sign:hover {
